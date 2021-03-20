@@ -10,9 +10,14 @@
   },
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.11.2",
+    "@reactchartjs/react-chart.js": "^1.0.0-rc.3",
+    "chart.js": "^2.9.4",
     "clsx": "latest",
     "react": "latest",
+    "react-datepicker": "^3.6.0",
     "react-dom": "latest",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "latest"
   },
   "browserslist": {
