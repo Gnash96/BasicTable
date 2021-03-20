@@ -7,11 +7,13 @@ npm install
 npm start
 ```
 
+
 # Page1
 
 To access Page 1 that is barchart with stackoverflow data
 
 Then open [`http://localhost:3000/chart`](http://localhost:3000/chart) in a browser.
+
 
 # Page2
 
